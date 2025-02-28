@@ -1,3 +1,4 @@
 NOTE UNTUK UNPAS
 -Bikin video php plis yang banyak
 -laravel bikin code pesawat terbang serta database nya 
+-bikin javascrip tutorial
